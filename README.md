@@ -1,8 +1,10 @@
 ## 1. 架构
+```
 kibana(version:4.1.1): 10.0.0.1:8080
 kibana_cas: 10.0.0.1:80
 elasticsearch: 10.0.0.2:9200
 esproxy(nginx): 10.0.0.2:9201
+```
 
 ## 2. kibana auth
 
